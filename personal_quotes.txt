@@ -1,3 +1,7 @@
 Strength through struggle - Mike Choi
 
+<<<<<<< HEAD
 I like green - Jay
+=======
+I like yellow - Jay
+>>>>>>> personal_color
